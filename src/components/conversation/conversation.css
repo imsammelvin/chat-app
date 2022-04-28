@@ -1,0 +1,55 @@
+.conversation-messages{
+    overflow: scroll;
+    height: 80vh;
+    padding: 0vh,1vh,0vh,1vh;
+}
+
+.input-container{
+    margin-right: 1vh;
+    display: flex;
+}
+
+.input-container button{
+    margin-left: 2vh;
+}
+
+
+.message-container{
+    display: flex;    
+}
+
+p{
+    text-align: center;
+}
+
+.chatscreen{
+    width: 100%;
+    border-top: 0px;
+    padding: 1vh;
+}
+
+.chatscreen encryption-details{
+    margin-top: 0px;
+    width: 30%;
+    float:right;
+}
+
+.chat{
+    width: 70%;
+    margin-top: auto;
+    padding: 20px;
+    float: left;
+    background-color:beige;
+}
+
+.encryption-elements{
+    background-color: aquamarine;
+    height: 750px;
+}
+
+input{
+    width:300px;
+}
+
+
+

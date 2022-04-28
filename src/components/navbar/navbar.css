@@ -1,0 +1,7 @@
+.navbar-container{
+    display: flex;
+    padding: 3vh;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+    background-color: aqua;
+}

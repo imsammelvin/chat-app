@@ -1,0 +1,21 @@
+.login-screen{
+    margin-right: 1000%;
+    background-color: aquamarine;
+    width: 1500px;
+    height: 750px;
+}
+.title{
+    width:100px;
+}
+
+.login-screen button{
+    width: 100px;
+}
+
+.mail{
+    margin-right: 1500px; 
+}
+
+.password{
+    margin-right: 1500px;
+}
